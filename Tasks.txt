@@ -1,1 +1,6 @@
 REQUIREMENTS: CHAPTER 1,2,3,4,5,10
+
+
+
+Note:
++ Đánh số dòng trên Jupyter: esc + L
